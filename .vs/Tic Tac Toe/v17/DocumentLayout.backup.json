@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BC4D0D8-34D0-4276-A12D-BE7CCDF0C94D}|Tic Tac Toe.csproj|c:\\users\\asus\\documents\\fullstack\\c#\\tic tac toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BC4D0D8-34D0-4276-A12D-BE7CCDF0C94D}|Tic Tac Toe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BC4D0D8-34D0-4276-A12D-BE7CCDF0C94D}|Tic Tac Toe.csproj|C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BC4D0D8-34D0-4276-A12D-BE7CCDF0C94D}|Tic Tac Toe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC4D0D8-34D0-4276-A12D-BE7CCDF0C94D}|Tic Tac Toe.csproj|c:\\users\\asus\\documents\\fullstack\\c#\\tic tac toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BC4D0D8-34D0-4276-A12D-BE7CCDF0C94D}|Tic Tac Toe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswIYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T11:49:05.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\C#\\Tic Tac Toe\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T11:47:58.094Z",
               "EditorCaption": " [Design]"
