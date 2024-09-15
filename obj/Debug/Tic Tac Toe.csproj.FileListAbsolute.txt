@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\ASUS\Documents\FullStack\C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
